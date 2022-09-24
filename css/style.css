@@ -3,7 +3,8 @@
     margin: 0;
 }
 .body{
-    background: url("../media/images/snake_game_1533210447.jpg");
+    /* background: url("../media/images/snake_game_1533210447.jpg"); */
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_f6xNc_UppNfaaSWHdp5wgJfUjEb7QdssA&usqp=CAU");
     min-height: 100vh;
     background-size: 10vw 10vh;
     display: flex;
